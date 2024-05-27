@@ -11,8 +11,6 @@
   
 I'm a Computer Science Engineering graduate from BITS Pilani, Goa Campus, with a passion for software development and enjoy contributing to the tech community.  
 
-<br>
-
 
 
 ---
@@ -65,7 +63,7 @@ I'm a Computer Science Engineering graduate from BITS Pilani, Goa Campus, with a
 
 ### Projects and Dev Stuffs:
 
-<details>
+<p>
   <summary><b>⚡ Github Stats</b></summary>
 <br>
 <br>
@@ -81,13 +79,14 @@ I'm a Computer Science Engineering graduate from BITS Pilani, Goa Campus, with a
 
 <br>
 
-<details>
+<p>
   <summary><b>☄️ Github Streaks</b></summary>
 
+<br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=namit-chandwani&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
-</details>
+</p>
 
 ---
   
@@ -98,8 +97,11 @@ I'm a Computer Science Engineering graduate from BITS Pilani, Goa Campus, with a
 
 <br>  
 
-<br>  
 Thank you for visiting my GitHub profile! Feel free to check out my repositories and get in touch if you want to collaborate on exciting projects.
+
+
+<br>
+<br>
 
 
 
