@@ -29,9 +29,9 @@ I'm a Computer Science Engineering graduate from BITS Pilani, Goa Campus, with a
 ### 🏆 Activities and Interests  
   
 - **Hackathons**:  
-- 🥇 Winner at Techweekend Spring 2020  
-- 🥈 2nd Runner-Up at DevFest Hackathon 2020  
-- 🏅 People's Choice award at Groww Hackraft Hackathon 2023  
+    - 🥇 Winner at Techweekend Spring 2020  
+    - 🥈 2nd Runner-Up at DevFest Hackathon 2020  
+    - 🏅 People's Choice award at Groww Hackraft Hackathon 2023  
   
 - **Research**: Co-authored an IEEE paper focused on connecting NGOs and volunteers through software.  
   
@@ -66,10 +66,9 @@ I'm a Computer Science Engineering graduate from BITS Pilani, Goa Campus, with a
 <p>
   <summary><b>⚡ Github Stats</b></summary>
 <br>
-<br>
 
 <a href="https://github.com/namit-chandwani/namit-chandwani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namit-chandwani&hide=css,html,jupyter notebook,makefile,dockerfile,javascript,python,typescript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namit-chandwani&hide=css,html,jupyter%20notebook,makefile,dockerfile,javascript,python,typescript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <br>
 <br>
@@ -78,6 +77,8 @@ I'm a Computer Science Engineering graduate from BITS Pilani, Goa Campus, with a
 </a>
 
 <br>
+<br>
+
 
 <p>
   <summary><b>☄️ Github Streaks</b></summary>
